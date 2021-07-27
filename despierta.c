@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf( "El universo es una creación mental sostenida en la mente del todo" );
+    printf( "El universo es una creación mental sostenida en la mente del todoooo" );
 
 
     getch(); /* Pausa */
